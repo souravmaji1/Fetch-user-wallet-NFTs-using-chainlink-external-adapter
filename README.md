@@ -5,7 +5,7 @@ This template provides a basic framework for developing Chainlink external adapt
 ## Creating your own adapter from this template
 
 Clone this repo and change "ExternalAdapterProject" below to the name of your project
-
+https://api.covalenthq.com/v1/matic-mainnet/address/0x63b35aD0e9aF056faf6FDbd78bA1d3A1Cf727215/balances_nft/?nft=true&key=ckey_e153e5e4c4c84a6e952583ebac3
 ```bash
 git clone https://github.com/thodges-gh/CL-EA-NodeJS-Template.git ExternalAdapterProject
 ```
