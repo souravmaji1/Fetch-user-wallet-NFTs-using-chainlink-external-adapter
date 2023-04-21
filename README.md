@@ -1,3 +1,13 @@
+Description about this NFT CHAINLINK EXTERNAL ADAPTER Made By me : SOURAV MAJI
+
+This external adapter takes wallet address of any user as input and fetches all nfts present in his wallet and the reason I made this external adapter is I have made a marketplace where users is minting nfts and they can stake that minted nfts to earn erc20 tokens as rewards but they can't use their nfts present inside their wallet 
+
+so i want to integrate this adapter with my nft marketplace smart contract so that users can choose any nfts present inside their wallet and stake it to earn erc20 tokens 
+
+
+
+
+
 How to run this NFT Chainlink External Adapter :
 
 First > Clone this repository
